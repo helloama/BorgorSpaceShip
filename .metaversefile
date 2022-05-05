@@ -1,5 +1,6 @@
 {
   "name": "magic-carpet",
+  "description": "magic-carpet",
   "start_url": "magiccarpet.glb",
   "components": [
     {
