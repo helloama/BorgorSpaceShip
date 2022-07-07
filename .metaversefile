@@ -7,6 +7,7 @@
       "key": "sit",
       "value": {
         "subtype": "saddle",
+        "mountType": "flying",
         "sitOffset": [0, -0.4, 0],
         "walkAnimation": "Wind",
         "walkAnimationHoldTime": 1,
