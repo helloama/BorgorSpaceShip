@@ -1,5 +1,5 @@
 {
-  "name": "Pirate Ship",
+  "name": "PirateShip",
   "description": "magic-carpet",
   "start_url": "LOWPOLYBOATt.glb",
   "components": [
@@ -12,7 +12,7 @@
         "walkAnimation": "Wind",
         "walkAnimationHoldTime": 1,
         "walkAnimationSpeedFactor": 0.1,
-        "speed": 0.2,
+        "speed": 0.20,
         "damping": 0.99
       }
     }
