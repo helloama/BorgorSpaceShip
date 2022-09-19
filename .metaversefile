@@ -1,18 +1,18 @@
 {
-  "name": "Borgor Ship",
+  "name": "Pirate Ship",
   "description": "magic-carpet",
-  "start_url": "magiccarpet.glb",
+  "start_url": "LOWPOLYBOATt.glb",
   "components": [
     {
       "key": "sit",
       "value": {
         "subtype": "saddle",
         "mountType": "flying",
-        "sitOffset": [0, -0.4, 0],
+        "sitOffset": [0, 0.6, 0],
         "walkAnimation": "Wind",
         "walkAnimationHoldTime": 1,
         "walkAnimationSpeedFactor": 0.1,
-        "speed": 0.52,
+        "speed": 0.2,
         "damping": 0.99
       }
     }
