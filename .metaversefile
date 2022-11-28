@@ -1,7 +1,7 @@
 {
-  "name": "PirateShip",
+  "name": "SantaSlay",
   "description": "magic-carpet",
-  "start_url": "LOWPOLYBOATt.glb",
+  "start_url": "santsslayd.glb",
   "components": [
     {
       "key": "sit",
@@ -9,7 +9,7 @@
         "subtype": "saddle",
         "mountType": "flying",
         "sitOffset": [0, 0.6, 0],
-        "walkAnimation": "Wind",
+        "walkAnimation": "Animation",
         "walkAnimationHoldTime": 1,
         "walkAnimationSpeedFactor": 0.1,
         "speed": 0.20,
